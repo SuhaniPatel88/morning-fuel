@@ -3,7 +3,7 @@
 
 | Meal                                   | Difficulty (1-5) | Active Prep Time   | Your Current Skill (1-5) | Nutritional Profile                                                                                                          |
 | -------------------------------------- | ---------------- | ------------------ | ------------------------ | ---------------------------------------------------------------------------------------------------------------------------- |
-| **Fruits**                             | 1/5              | 2 mins             | 5/5                      | **High:** Fiber, Omega-3 (Chia/Halim), Healthy fats (Nuts). **Low:** Protein.                                                |
+| **Fruits + Halim/Chia Seeds**                             | 1/5              | 2 mins             | 5/5                      | **High:** Fiber, Omega-3 (Chia/Halim), Healthy fats (Nuts). **Low:** Protein.                                                |
 | **YogaBar Muesli**                     | 1/5              | 1 min              | 5/5                      | **High:** Fiber, Whole Grains, Healthy Fats (Almonds), Antioxidants (Cranberry). **Med:** Sugar (added sweeteners), Protein. |
 | **Butter/Peanut Butter Toast**         | 1/5              | 10 mins            | 5/5                      | **High:** Carbs, Healthy fats, Energy. **Med:** Protein (if PB is high quality).                                             |
 | **Overnight Mocha Oats**               | 2/5              | 10 mins (Night)    | 3.5/5                    | **High:** Fiber, Antioxidants (Coffee/Cocoa), Slow-release energy.                                                           |
