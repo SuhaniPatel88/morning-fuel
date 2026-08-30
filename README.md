@@ -11,3 +11,6 @@ A personal collection of quick, office-friendly breakfast ideas.
 
 ### Why?
 Because mornings are hard, and skipping breakfast is easy.
+
+### 📖 Start Here
+All the details live in [`secrets.md`](secrets.md)
