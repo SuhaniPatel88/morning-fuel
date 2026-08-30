@@ -1,7 +1,5 @@
 # morning-fuel
 
-## Breakfast Playbook
-
 A personal collection of quick, office-friendly breakfast ideas.
 
 ### What's Inside
